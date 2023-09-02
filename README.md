@@ -34,7 +34,7 @@ Feel free to explore my repositories for more projects and contributions.
 Let's connect and chat about technology, coding, and more! You can find me on:
 
 - [[LinkedIn](https://www.linkedin.com/in/vishal7663/)]
-- [Twitter](Your Twitter Profile Link)
+- [[Twitter](https://twitter.com/vikas7663)]
 
 ## GitHub Stats
 
