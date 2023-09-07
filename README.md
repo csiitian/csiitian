@@ -40,4 +40,6 @@ Let's connect and chat about technology, coding, and more! You can find me on:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikasss7663&show_icons=true)
 
+[![committers.top badge](https://user-badge.committers.top/india_private/Vikasss7663.svg)](https://user-badge.committers.top/india_private/Vikasss7663)
+
 Thanks for stopping by! Feel free to explore my repositories and reach out if you have any questions or just want to say hi. 😊
