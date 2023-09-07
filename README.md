@@ -15,19 +15,18 @@ I'm a passionate Software Engineer, currently focused on SpringBoot and React. W
 
 Here are some of my favorite projects:
 
-- [Project 1 Name](Link to Project 1): Brief description or key features.
-- [Project 2 Name](Link to Project 2): Brief description or key features.
-- [Project 3 Name](Link to Project 3): Brief description or key features.
+- [Live Code Collaboration](https://github.com/Vikasss7663/live-code-collaboration)
+- [Tic Tac Toe](https://github.com/Vikasss7663/tic-tac-toe)
 
 Feel free to explore my repositories for more projects and contributions.
 
 ## Skills
 
 - 💻 Programming Languages: C, Java, Kotlin, Javascript
-- 🌐 Web Development: [List Your Web Skills]
-- 📱 Mobile Development: [List Your Mobile Skills]
-- ⚙️ Other Technologies: [List Other Skills]
-- 🛠️ Tools & Frameworks: Springboot
+- 🌐 Web Development: Javascript
+- 📱 Mobile Development: Android, Java, Kotlin, XML, Jetpack Compose
+- ⚙️ Other Technologies: Kafka, Docker, AWS
+- 🛠️ Tools & Frameworks: Springboot, React
 
 ## Connect with Me
 
@@ -35,6 +34,7 @@ Let's connect and chat about technology, coding, and more! You can find me on:
 
 - [[LinkedIn](https://www.linkedin.com/in/vishal7663/)]
 - [[Twitter](https://twitter.com/vikas7663)]
+- [[Medium](https://medium.com/@vikasss7663)]
 
 ## GitHub Stats
 
