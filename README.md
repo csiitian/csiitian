@@ -32,9 +32,9 @@ Feel free to explore my repositories for more projects and contributions.
 
 Let's connect and chat about technology, coding, and more! You can find me on:
 
-- [[LinkedIn](https://www.linkedin.com/in/vishal7663/)]
-- [[Twitter](https://twitter.com/vikas7663)]
-- [[Medium](https://medium.com/@vikasss7663)]
+- [LinkedIn](https://www.linkedin.com/in/vishal7663/)
+- [Twitter](https://twitter.com/vikas7663)
+- [Medium](https://medium.com/@vikasss7663)
 
 ## GitHub Stats
 
