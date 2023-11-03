@@ -51,7 +51,7 @@ Let's connect and chat about technology, coding, and more! You can find me on:
 ## Streak 🔥
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vikasss7663&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[Send Email](https://localhost:3000/send-mail)
+![Send Email](https://localhost:3000/send-mail)
 
 ## Visitors Count🚶<br>
   <img src="https://komarev.com/ghpvc/?username=Vikasss7663&color=blue&style=for-the-badge" />
