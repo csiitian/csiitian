@@ -8,7 +8,6 @@ I'm a passionate Software Engineer, currently focused on SpringBoot and React. W
 - 🌱 I'm constantly learning and improving my skills in SpringBoot, React, and Node.js.
 - 👯 I'm looking to collaborate on Android App Development.
 - 💬 Ask me about C, Java, React, Node.js, Kotlin.
-- 📫 How to reach me: vishalsinghgk2018@gmail.com.
 - 😄 Pronouns: he
 
 ## Featured Projects
