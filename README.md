@@ -1,4 +1,4 @@
-# Hi there, I'm Vishal aka Vikas ! 👋
+# Hi there, I'm CS_IITIAN ! 👋
 
 I'm a passionate Software Engineer, currently focused on SpringBoot and React. Welcome to my GitHub profile!
 
