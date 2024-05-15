@@ -15,8 +15,8 @@ I'm a passionate Software Engineer, currently focused on SpringBoot and React. W
 
 Here are some of my favorite projects:
 
-- [Live Code Collaboration](https://github.com/Vikasss7663/live-code-collaboration)
-- [Tic Tac Toe](https://github.com/Vikasss7663/tic-tac-toe)
+- [Live Code Collaboration](https://github.com/csiitian/live-code-collaboration)
+- [Tic Tac Toe](https://github.com/csiitian/tic-tac-toe)
 
 Feel free to explore my repositories for more projects and contributions.
 
@@ -28,31 +28,17 @@ Feel free to explore my repositories for more projects and contributions.
 - ⚙️ Other Technologies: Kafka, Docker, AWS
 - 🛠️ Tools & Frameworks: Springboot, React
 
-## 🤝 Connect with Me
-
-Let's connect and chat about technology, coding, and more! You can find me on:
-
- <a href= "https://www.linkedin.com/in/vishal7663/">
-<img src=https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/vikas7663" target="_blank">
-<img src=https://img.shields.io/badge/twitter-darkblue.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@vikasss7663" target="_blank">
-<img src=https://img.shields.io/badge/medium-blue.svg?&style=for-the-badge&logo=medium&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikasss7663&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=csiitian&show_icons=true)
 
-[![committers.top badge](https://user-badge.committers.top/india_private/Vikasss7663.svg)](https://user-badge.committers.top/india_private/Vikasss7663)
+[![committers.top badge](https://user-badge.committers.top/india_private/csiitian.svg)](https://user-badge.committers.top/india_private/csiitian)
 
 ## Streak 🔥
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vikasss7663&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=csiitian&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Visitors Count🚶<br>
-  <img src="https://komarev.com/ghpvc/?username=Vikasss7663&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=csiitian&color=blue&style=for-the-badge" />
 <br>
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you have any questions or just want to say hi. 😊
