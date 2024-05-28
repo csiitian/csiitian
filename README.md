@@ -27,6 +27,9 @@ Feel free to explore my repositories for more projects and contributions.
 - ⚙️ Other Technologies: Kafka, Docker, AWS
 - 🛠️ Tools & Frameworks: Springboot, React
 
+## Leetcode Profile
+![Leetcode](https://leetcode-profile.vercel.app/?username=cs_iitian)
+
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=csiitian&show_icons=true)
