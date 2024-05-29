@@ -28,7 +28,8 @@ Feel free to explore my repositories for more projects and contributions.
 - 🛠️ Tools & Frameworks: Springboot, React
 
 ## Leetcode Profile
-![Leetcode](https://leetcode-profile.vercel.app/?username=cs_iitian)
+![Leetcode Solved Questions](https://leetcode-profile.vercel.app/?username=cs_iitian)
+![Leetcode Badges](https://leetcode-profile.vercel.app/badges?username=cs_iitian)
 
 ## GitHub Stats
 
