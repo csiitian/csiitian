@@ -55,7 +55,6 @@ Explore more projects and contributions in my [repositories](https://github.com/
 
 - [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csiitian&layout=compact&hide=html)](https://github.com/csiitian?tab=repositories)
 - [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=csiitian&theme=darkhub&margin-w=15)](https://github.com/csiitian?tab=repositories)
-- [![Wakatime Stats](https://wakatime.com/badge/user/csiitian.svg)](https://wakatime.com/@csiitian)
 
 ## Let's Connect
 Feel free to explore my repositories and reach out if you have any questions or just want to say hi. 😊
