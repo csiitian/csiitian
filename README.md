@@ -43,7 +43,7 @@ Explore more projects and contributions in my [repositories](https://github.com/
 ![LeetCode Solved Questions](https://leetcode-profile.vercel.app/?username=cs_iitian)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=csiitian&show_icons=true&hide_title=true&count_private=true&include_all_commits=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=csiitian)](https://github.com/csiitian/github-readme-stats)
 
 ## Streak 🔥
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=csiitian&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
@@ -55,7 +55,7 @@ Explore more projects and contributions in my [repositories](https://github.com/
 
 - [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csiitian&layout=compact&hide=html)](https://github.com/csiitian?tab=repositories)
 - [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=csiitian&theme=darkhub&margin-w=15)](https://github.com/csiitian?tab=repositories)
-- [![Wakatime Stats](https://wakatime.com/badge/user/your_username.svg)](https://wakatime.com/@your_username)
+- [![Wakatime Stats](https://wakatime.com/badge/user/csiitian.svg)](https://wakatime.com/@csiitian)
 
 ## Let's Connect
 Feel free to explore my repositories and reach out if you have any questions or just want to say hi. 😊
