@@ -1,46 +1,63 @@
-# Hi there, I'm CS_IITIAN ! 👋
+# Hi there, I'm CS_IITIAN! 👋
 
-I'm a passionate Software Engineer, currently focused on SpringBoot and React. Welcome to my GitHub profile!
+I'm a passionate **Software Engineer** with expertise in **SpringBoot** and **React**. Welcome to my GitHub profile!
 
 ## About Me
 
-- 🔭 I'm currently working on Live Code Collaboration to share code editor live with friends.
-- 🌱 I'm constantly learning and improving my skills in SpringBoot, React, and Node.js.
-- 👯 I'm looking to collaborate on Android App Development.
-- 💬 Ask me about C, Java, React, Node.js, Kotlin.
-- 😄 Pronouns: he
+- 🔭 Currently developing **Live Code Collaboration**, a tool for sharing code editors live with friends.
+- 🌱 Continuously learning and enhancing skills in **SpringBoot**, **React**, and **Node.js**.
+- 👯 Actively seeking collaboration opportunities in **Android App Development**.
+- 💬 Open to discussions about **C**, **Java**, **React**, **Node.js**, **Kotlin**, and more.
+- 😄 Pronouns: He/Him
 
 ## Featured Projects
 
-Here are some of my favorite projects:
+Here are some of my notable projects:
 
-- [Live Code Collaboration](https://github.com/csiitian/live-code-collaboration)
-- [Tic Tac Toe](https://github.com/csiitian/tic-tac-toe)
+- [**Live Code Collaboration**](https://github.com/csiitian/live-code-collaboration) - Real-time code sharing tool.
+- [**Tic Tac Toe**](https://github.com/csiitian/tic-tac-toe) - Classic Tic Tac Toe game implementation.
 
-Feel free to explore my repositories for more projects and contributions.
+Explore more projects and contributions in my [repositories](https://github.com/csiitian?tab=repositories).
 
-## Skills
+## Skills & Technologies
 
-- 💻 Programming Languages: C, Java, Kotlin, Javascript
-- 🌐 Web Development: Javascript
-- 📱 Mobile Development: Android, Java, Kotlin, XML, Jetpack Compose
-- ⚙️ Other Technologies: Kafka, Docker, AWS
-- 🛠️ Tools & Frameworks: Springboot, React
+### Programming Languages
+- 💻 **C**, **Java**, **Kotlin**, **JavaScript**, **TypeScript**, **Python**, **SQL**
 
-## Leetcode Profile
-![Leetcode Solved Questions](https://leetcode-profile.vercel.app/?username=cs_iitian)
+### Web Development
+- 🌐 **JavaScript**, **TypeScript**, **HTML**, **CSS**, **React**, **Angular**, **Vue.js**, **Next.js**
+
+### Mobile Development
+- 📱 **Android**, **Java**, **Kotlin**, **XML**, **Jetpack Compose**
+
+### Backend Development
+- ⚙️ **SpringBoot**, **Node.js**, **Express.js**, **Django**, **Flask**
+
+### Tools & Technologies
+- 🛠️ **Docker**, **Kubernetes**, **AWS**, **Azure**, **Kafka**, **Git**, **Jenkins**, **Terraform**
+
+### Databases
+- 🗄️ **MySQL**, **PostgreSQL**, **MongoDB**, **Redis**
+
+## LeetCode Profile
+![LeetCode Solved Questions](https://leetcode-profile.vercel.app/?username=cs_iitian)
 
 ## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=csiitian&show_icons=true)
-
-[![committers.top badge](https://user-badge.committers.top/india_private/csiitian.svg)](https://user-badge.committers.top/india_private/csiitian)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=csiitian&show_icons=true&hide_title=true&count_private=true&include_all_commits=true)
 
 ## Streak 🔥
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=csiitian&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=csiitian&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-## Visitors Count🚶<br>
-  <img src="https://komarev.com/ghpvc/?username=csiitian&color=blue&style=for-the-badge" />
-<br>
+## Visitors Count 🚶
+![Visitor Count](https://komarev.com/ghpvc/?username=csiitian&color=blue&style=for-the-badge)
 
-Thanks for stopping by! Feel free to explore my repositories and reach out if you have any questions or just want to say hi. 😊
+## Additional Stats
+
+- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csiitian&layout=compact&hide=html)](https://github.com/csiitian?tab=repositories)
+- [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=csiitian&theme=darkhub&margin-w=15)](https://github.com/csiitian?tab=repositories)
+- [![Wakatime Stats](https://wakatime.com/badge/user/your_username.svg)](https://wakatime.com/@your_username)
+
+## Let's Connect
+Feel free to explore my repositories and reach out if you have any questions or just want to say hi. 😊
+
+Thanks for stopping by!
