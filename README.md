@@ -14,6 +14,7 @@ I'm a passionate **Software Engineer** with expertise in **SpringBoot** and **Re
 
 Here are some of my notable projects:
 
+- [**Portfoli**](https://csiitian.github.io/portfolio/)
 - [**Live Code Collaboration**](https://github.com/csiitian/live-code-collaboration) - Real-time code sharing tool.
 - [**Tic Tac Toe**](https://github.com/csiitian/tic-tac-toe) - Classic Tic Tac Toe game implementation.
 
